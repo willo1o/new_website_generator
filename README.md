@@ -3,11 +3,11 @@ This repository contains only one file, a python code, which generates a simple 
 
 # How to run it
 Running it is very simple.
-First of all, put the file in the folder you would like to have your websites.
-Click on the **website_generator.py** file twice.
-If it is running, a window will pop up.
-Answer the question it is requesting for.
-You are done.
+- First of all, put the file in the folder you would like to have your websites.
+- Click on the **website_generator.py** file twice.
+- If it is running, a window will pop up.
+- Answer the question it is requesting for.
+- You are done.
 
 # How it works
 If the file is opened in a code editor, one can see the entire algorythm. Every step is commented, thus ordinary people can understand the gist of it.
